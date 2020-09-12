@@ -1,0 +1,2 @@
+# generateDSexample
+A simple example of using the [generateDS](https://www.davekuhlman.org/generateDS.html) to read an XML Auto Loan file [Version 1,8](https://www.sec.gov/info/edgar/specifications/absxml.htm). The generateDS uses the xsd to create a custom parser for the xml. 
